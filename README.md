@@ -21,7 +21,7 @@ The goal of this project is to determine which news articles are similar to each
 **How to Use**
 
 Run the provided Python notebook (.ipynb) to see the full analysis.
-Visualizations are included in the notebook to help understand the selection of n-grams and the Jaccard similarity.
+Visualizations are included in the pdf file to help understand the selection of n-grams and the Jaccard similarity.
 
 **Conclusion**
 
