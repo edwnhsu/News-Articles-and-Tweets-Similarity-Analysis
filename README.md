@@ -18,11 +18,16 @@ The goal of this project is to determine which news articles are similar to each
 * **N-Gram Selection:** Explanation and visualization of the optimal “n” for news articles vs. tweets.
 * **Text vs. Title:** Justification of whether text, title, or a combination was used for news articles.
 
-**How to Use**
-
-Run the provided Python notebook (.ipynb) to see the full analysis.
-Visualizations are included in the pdf file to help understand the selection of n-grams and the Jaccard similarity.
-
 **Conclusion**
 
 This project showcases how n-grams and Jaccard distance can be effectively used to compare textual data such as news articles and tweets, helping to identify patterns of similarity.
+
+<br>
+<br>
+<br>
+
+**How to Use**
+
+Run the provided Python notebook (News Articles and Tweets Similarity Analysis_Starter1.ipynb) to get started with the basic code and see the full analysis.
+Visualizations are included in the pdf file to help understand the selection of n-grams and the Jaccard similarity.
+
